@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Huynh Dang Nhu Cuong, MSSV 22081.
+Đây là README từ nhánh conflict-demo.
